@@ -1,16 +1,18 @@
 # Video_Anomaly_Detection_Datasets (VAD)
 
-This repo contains the Yolo-7 VAD results of large Video Anomaly Detection(VAD) datasets, namely,
+This repository contains the YOLO-7 Video Anomaly Detection (VAD) results for various large datasets, including:
 
-* ShanghaiTech dataset https://svip-lab.github.io/dataset/campus_dataset.html
+* ShanghaiTech dataset - available at: https://svip-lab.github.io/dataset/campus_dataset.html
 * Avenue dataset
 * Street Scene dataset
 
-Other VAD datasets which are not included at the moment but seen as popular ones,
+  
+Other popular VAD datasets (not included at the moment), such as:
 * UCSD Ped1
 * UCSD Ped2
 * etc.
 
-The folder contains VAD outputs, i.e. the abnormal box coordinates, the classification type, and the abnormal confidence level.
+  
+Inside the folder, you will find the VAD outputs, including the coordinates of abnormal boxes, the classification type, and the corresponding abnormal confidence level.
 
-This repo will save you dozons of hours to apply the state-of-art Yolo-7 model on popular VAD datasets.
+Using this repository, you can quickly apply the state-of-the-art YOLO-7 model to analyze popular VAD datasets, saving you dozens of hours of manual effort.
