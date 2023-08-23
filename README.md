@@ -10,7 +10,7 @@ Including:
 * Street Scene dataset
 
   
-Not included at the moment, but it's present a full list here:
+Not included at the moment, but it's better to present a full list here:
 * UCSD Ped1
 * UCSD Ped2
 * etc.
@@ -24,4 +24,4 @@ Inside the folder, you will find the VAD outputs, including：
 
 ## Purpose of this repo
 
-Using this repository, you can quickly continue with the result of YOLO-7 VAD detection to your downstream tasks, saving dozens of hours to run videos from popular VAD datasets from scratch.
+Using this repository, you can quickly continue with the result of YOLO-7 VAD detection to your downstream tasks, saving dozens of hours to run videos of popular VAD datasets from scratch.
